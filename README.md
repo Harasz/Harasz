@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Sydor</h1>
 <h3 align="center">A Full-Stack Javascript Developer from Poland</h3>
 
-- 🔭 I’m currently working for [Energy Web Foundation](https://github.com/energywebfoundation)
+- 🔭 I’m currently working for [LEOCODE](https://github.com/leocode)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
