@@ -13,6 +13,7 @@
 <h3 align="left">Articles and Publications:</h3>
 
 - [Emotion Recognition from Tweets](http://ceur-ws.org/Vol-3092/p07.pdf)
+- [Efficiency of information transfer in computer systems. Comparative analysis for different natural languages](http://dx.doi.org/10.29119/1641-3466.2024.213.1)
 - [How to build a React and Node custom Shopify app using Shopify CLI](https://gorrion.io/blog/how-to-build-a-react-and-node-custom-shopify-app-using-shopify-cli/)
 - [Boost your sales with Shopify Apps](https://gorrion.io/blog/boost-your-sales-with-shopify-apps/)
 - [Which e-commerce platform should you choose in 2022?](https://gorrion.io/blog/which-ecommerce-platform-should-you-choose-in-2022/)
